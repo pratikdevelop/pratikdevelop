@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer | AI/GenAI | Backend Systems
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikdevelop/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-111827?style=for-the-badge&logo=github&logoColor=white)](https://portfolio-lvnl.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikdevelop)
 
 Full Stack Software Engineer with **3.8 years of professional experience** building production-ready web applications, backend services, and AI-powered solutions.
